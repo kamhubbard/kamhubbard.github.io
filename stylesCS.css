@@ -12,3 +12,7 @@ body {
   border-color: green;
   border-width: medium;
 }
+.nav {
+  text-align: center;
+  margin: 20px;
+}
