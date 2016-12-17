@@ -1,0 +1,14 @@
+
+body {
+  color: black;
+  background-color: #F6FFFE;
+}
+
+.boxmodel {
+
+}
+.hero {
+  border-style: solid;
+  border-color: green;
+  border-width: medium;
+}
